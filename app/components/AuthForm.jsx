@@ -11,7 +11,7 @@ export default function AuthForm() {
         view = "magic_link"
         showLinks = {false}
         providers = {[]}
-        redirectTo = 'https://liste-voeux.vercel.app/auth/callback'
+        redirectTo = 'https://liste-voeux-3kbybt6qf-karims-projects-050470a5.vercel.app/auth/callback'
         appearance = {{
             theme: 'dark',
             button: {
