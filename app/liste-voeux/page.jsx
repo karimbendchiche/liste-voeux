@@ -24,7 +24,7 @@ export default async function ListeVoeux() {
         <div className="min-h-screen bg-purple-800 text-gray-800 font-sans">
     <div className="container mx-auto p-8 sm:p-12">
         <div className="flex justify-between items-start">
-            <h1 className="text-4xl md:text-5xl font-extrabold text-teal-300 mb-6">Mes souhaits</h1>
+            <h1 className="text-4xl md:text-5xl font-extrabold text-teal-300 mb-6">Mes voeux</h1>
             <form action="/auth/signout" method="post">
                 <button
                     type="submit"
